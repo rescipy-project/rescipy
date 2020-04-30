@@ -1,2 +1,2 @@
 # rescipy
-Python for scientific research
+Python for Scientific reSearch
